@@ -105,3 +105,4 @@ src/**Makefile
 /src/config/bitcoin-config.h
 /Makefile
 /libtool
+/doc/man/Makefile
