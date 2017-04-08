@@ -1,8 +1,8 @@
 package=zxing
 $(package)_version=0.0.1
 $(package)_download_path=https://github.com/glassechidna/zxing-cpp/archive
-$(package)_file_name=master.zip
-$(package)_sha256_hash=c479d714b0433439878f6be4d7d764e2809f1c261bbbe659b281c4aee2183caf
+$(package)_file_name=master.tar.gz
+$(package)_sha256_hash=40590413b63cee3147d7fbdcc007b577140c319e3790f04ffe370d02326b08e5
 
 define $(package)_config_cmds
   mkdir -p build &&\
